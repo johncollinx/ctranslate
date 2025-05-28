@@ -1,0 +1,2 @@
+rootProject.name = "MyApp"
+include ':app' // Or whatever your module name is
